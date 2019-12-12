@@ -1,2 +1,2 @@
 # Techno-Online-Module
-A repository for submissions of the Techno online module
+created and maintained by Shashwat Sharma
