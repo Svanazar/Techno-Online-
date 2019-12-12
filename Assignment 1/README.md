@@ -1,5 +1,5 @@
 # Assignment 1 Submissions
-##Problem 3 Solution Explanation
+## Problem 3 Solution Explanation
 
 First if x>y, then we just need to use the x-1 spell repeatedly and we can reach y.
 ***If x>=y, we can always reach y***
